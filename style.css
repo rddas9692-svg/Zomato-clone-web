@@ -298,7 +298,6 @@
   font-family: "Poppins", "Metropolis", sans-serif;
   font-size: 32px;
   font-weight: 600;
-
 }
 
 .sc-4 {
@@ -308,6 +307,7 @@
   font-family: "Poppins", "Metropolis", sans-serif;
   font-size: 18px;
   /* margin-left: 100px; */
+  padding-left:50px;
 }
 
 .sc-5 {
