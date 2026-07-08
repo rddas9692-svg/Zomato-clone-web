@@ -906,7 +906,11 @@ footer a:hover {
   background-color: #000000;
   color: #9ca3af;
 }
-
+.icon{
+  display:flex;
+  height:50px;
+  width:160px;
+}
 .f-i {
   display: flex;
   flex-direction: column;
@@ -914,7 +918,7 @@ footer a:hover {
 }
 
 .foot-img {
-  height: 60px;
+  height: 50px;
   width: 160px;
 }
 
