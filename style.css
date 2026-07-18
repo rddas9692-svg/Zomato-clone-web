@@ -567,40 +567,43 @@
 }
 
 .box1 {
-  width: 270px;
-  height: 390px;
+  width: 280px;
+  height: 440px;
   background-color: #FEECEF;
-  border-radius: 32px;
+  border-radius: 40px;
   overflow: hidden;
   border: 3px solid #FCD6DC;
   cursor: pointer;
 }
 
 .box2 {
-  width: 240px;
-  height: 390px;
+  width: 280px;
+  height: 440px;
   background-color: #FFF9E6;
-  border-radius: 32px;
+  border-radius: 40px;
   overflow: hidden;
   border: 3px solid #FCEFCA;
+  cursor: pointer;
 }
 
 .box3 {
-  width: 240px;
-  height: 390px;
+  width: 280px;
+  height: 440px;
   background-color: #F4EFFF;
-  border-radius: 32px;
+  border-radius: 40px;
   overflow: hidden;
   border: 3px solid #E8DFFF;
+  cursor: pointer;
 }
 
 .box4 {
-  width: 240px;
-  height: 390px;
+  width: 280px;
+  height: 440px;
   background-color: #FEECEF;
-  border-radius: 32px;
+  border-radius: 40px;
   overflow: hidden;
   border: 3px solid #FCD6DC;
+  cursor: pointer;
 }
 
 .box-content {
@@ -613,8 +616,8 @@
 }
 
 .box-img {
-  width: 150px;
-  height: 150px;
+  width: 160px;
+  height: 160px;
   background-size: cover;
   background-position: center;
   border-radius: 25px;
